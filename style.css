@@ -1,0 +1,26 @@
+#speed_selection{
+    width: 50px;
+    color:gray;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+#volume_slider{
+    color:green;
+    background-color: transparent;
+    width: 60px;
+}
+#back_button{
+    height: 15px;
+    width: 15px;
+    margin-left: 10px;
+
+}
+#front_button{
+    height: 15px;
+    width: 15px;
+    margin-left: 10px;
+
+}
