@@ -8,7 +8,7 @@ As funcionalidades são: regular a velocidade de reprodução do áudios; regula
 Para fazer a instalação basta:
 
 1- baixar o arquivo .zip no link: 
-    https://drive.google.com/file/d/1ctrJDRRm5Yh550rLHu7Nd4HNxaBV2zlo/view?usp=sharing
+    https://drive.google.com/file/d/1krc8XGL7k6j2GeHp1WiRhvb1Y7zBciU6/view?usp=sharing
 
 2- extrair os arquivos
 
@@ -20,3 +20,7 @@ Para fazer a instalação basta:
 5- Arrastar o arquivo (pasta) extraído para o navegador
 
 6- Recarregar a página no WhatsApp WEB
+
+
+Crédito aos ícones de avançar e retroceder no áudio:
+    Icon made by Pixel perfect from www.flaticon.com
